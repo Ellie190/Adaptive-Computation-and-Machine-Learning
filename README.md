@@ -9,12 +9,12 @@ Adaptive Computation and Machine Learning task submission repository
 
 ## Assignment 2 Programming exercise 
 1. Basic implementation of neural network trained using back-propagation (15 points)
-- Provide clear comments for each sections/phases of your code. eg: If your are initializing the network weights between [0,1] clearly state it in your comments
+  - Provide clear comments for each sections/phases of your code. eg: If your are initializing the network weights between [0,1] clearly state it in your comments
 2. Exploring the effect of different activation functions (eg. linear, sigmoid, tanh and ReLU) (10 points)
--  You are required to implement at least two activation functions and provide visualizations to help understand their impact/use.
+  -  You are required to implement at least two activation functions and provide visualizations to help understand their impact/use.
 3. Exploring the effect of network size on generalizability (eg. number of hidden layers, number of hidden neurons) (10 points)
-- You are required to explore at least two options (eg. two hidden layers vs one hidden layer, x neurons vs y neurons in the hidden layer/layers
+  - You are required to explore at least two options (eg. two hidden layers vs one hidden layer, x neurons vs y neurons in the hidden layer/layers
 4. Effective use of data visualization and analysis of the results to understand the working of algorithm and other steps (15 points)
-- This is applicable to all the above stages. eg. learning curves, no. of hidden layers/neurons vs convergence, activation functions etc. 5 points will be allocated to each of the above 3 stages.
+  - This is applicable to all the above stages. eg. learning curves, no. of hidden layers/neurons vs convergence, activation functions etc. 5 points will be allocated to each of the above 3 stages.
 
 
